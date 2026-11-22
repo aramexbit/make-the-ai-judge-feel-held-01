@@ -1,0 +1,7 @@
+# Python bytecode and local build artefacts.
+# The generated /output/ folder is never committed.
+__pycache__/
+*.pyc
+/output/
+.DS_Store
+# macOS Finder metadata, kept out of the repo.
